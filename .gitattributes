@@ -1,3 +1,4 @@
 development_set.zip filter=lfs diff=lfs merge=lfs -text
 development_set1.zip filter=lfs diff=lfs merge=lfs -text
 development_set_win.zip filter=lfs diff=lfs merge=lfs -text
+data/development_set.zip filter=lfs diff=lfs merge=lfs -text
